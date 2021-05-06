@@ -216,6 +216,12 @@ input{
   font-family: courier;
   font-weight: bold;
 }
+.p-produto{
+  text-align:center;
+  color: white;
+  font-family: courier;
+  font-size: 5vw;
+}
 .contato{
   background: deepskyblue;
   width: 100vw;
