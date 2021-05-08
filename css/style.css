@@ -242,10 +242,7 @@ input{
   top: 3vw;
   font-weight: bold;
 }
-form{
-  Background: red;
-Position: absolute;
-}
+
 .rodape{
   background: black;
   width: 100vw;
@@ -286,4 +283,11 @@ Position: absolute;
   font-weight: bold;
   color: deepskyblue;
   font-family: 'roboto';
+}
+form{
+  position: absolute;
+  background: cyan;
+}
+.input-nome, .input-senha{
+  display: block;
 }
