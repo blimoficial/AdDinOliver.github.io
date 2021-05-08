@@ -242,6 +242,9 @@ input{
   top: 3vw;
   font-weight: bold;
 }
+form{
+  Background: red;
+}
 .rodape{
   background: black;
   width: 100vw;
